@@ -13,3 +13,7 @@ Start the Docker compose setup and specify the number of runners to launch
 ```
 docker compose up --scale runner=n # where n is the number of runners you want to run
 ```
+
+
+
+Based on https://github.com/beikeni/github-runner-dockerfile but with my own labor because I wanted to learn more.
